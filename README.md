@@ -76,6 +76,16 @@ The sending thread reads user input from the keyboard and sends it to the server
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/21207d8f-8807-4723-b896-d6cd6fa392e3)
+
+![Image](https://github.com/user-attachments/assets/54b1f076-ac43-43c9-bf5b-2051d573741f)
+
+![Image](https://github.com/user-attachments/assets/40c30110-645d-4fbc-b11a-33fd03181ac8)
+
+![Image](https://github.com/user-attachments/assets/c864bcc9-c982-4b12-9c2f-6d25e29989dc)
+
+![Image](https://github.com/user-attachments/assets/64784103-6693-4c5c-af45-675bd4b65a71)
+
 
 
 
