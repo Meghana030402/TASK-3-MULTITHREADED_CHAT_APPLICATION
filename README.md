@@ -21,47 +21,47 @@ Overall, this project reflects practical skills expected from an intern, such as
 
 # Features
 
-This application allows multiple users to connect to a single server and communicate in real time.
+•	This application allows multiple users to connect to a single server and communicate in real time.
 
-Messages sent by one client are instantly broadcast to all connected users, creating a shared chat environment.
+•	Messages sent by one client are instantly broadcast to all connected users, creating a shared chat environment.
 
-The server supports multiple client connections simultaneously using multithreading.
+•	The server supports multiple client connections simultaneously using multithreading.
 
-User join and leave messages make it easy to track active participants in the chat.
+•	User join and leave messages make it easy to track active participants in the chat.
 
-The entire system runs in the console, keeping it lightweight and easy to understand.
+•	The entire system runs in the console, keeping it lightweight and easy to understand.
 
 # Languages and Tools Used
 
-Java
+•	Java
 
-Java Socket Programming
+•	Java Socket Programming
 
-Java Development Kit (JDK)
+•	Java Development Kit (JDK)
 
-Eclipse / IntelliJ IDEA / NetBeans
+•	Eclipse / IntelliJ IDEA / NetBeans
 
-Command Prompt / Terminal
+•	Command Prompt / Terminal
 
 # Platforms Used
 
-Windows Operating System
+•	Windows Operating System
 
-Java Virtual Machine (JVM)
+•	Java Virtual Machine (JVM)
 
-Console-Based Environment
+•	Console-Based Environment
 
 # Applications 
 
-This project can be used as a basic real-time chat system for learning and experimentation.
+•	This project can be used as a basic real-time chat system for learning and experimentation.
 
-It is helpful for students who want hands-on experience with Java networking and socket programming.
+•	It is helpful for students who want hands-on experience with Java networking and socket programming.
 
-The project can act as a foundation for building more advanced messaging systems.
+•	The project can act as a foundation for building more advanced messaging systems.
 
-It is suitable for academic projects related to computer networks and distributed applications.
+•	It is suitable for academic projects related to computer networks and distributed applications.
 
-The system can be extended into a GUI-based or web-based chat application in the future.
+•	The system can be extended into a GUI-based or web-based chat application in the future.
 
 # Project Structure
 
