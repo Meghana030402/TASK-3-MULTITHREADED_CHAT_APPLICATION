@@ -12,6 +12,8 @@
 
 *MENTOR NAME*: NEELA SANTHOSH
 
+## DESCRIPTION
+
 # Project Overview
 
 This project is a Java-based console application that demonstrates real-time communication using a client–server architecture.It is designed to help learners understand how multiple users can connect to a central server and exchange messages instantly over a network.The application focuses on backend logic such as socket communication, message broadcasting, and handling multiple users at the same time.By running entirely in the command line, the project avoids graphical complexity and emphasizes core networking concepts.
