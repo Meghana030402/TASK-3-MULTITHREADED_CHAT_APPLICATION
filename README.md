@@ -91,4 +91,12 @@ The sending thread reads user input from the keyboard and sends it to the server
 
 
 
+
+
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/90be6ed2-a1c6-4bf8-a06e-84a60514b98f)
+
