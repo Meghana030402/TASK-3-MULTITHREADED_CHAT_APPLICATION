@@ -76,6 +76,10 @@ ChatClient : The ChatClient file represents the user-side application.It connect
 Once connected, the client allows the user to enter a username, which helps identify messages in the chat. The client code uses two separate threads: one for sending messages and another for receiving messages. This design ensures that the client can listen for incoming messages while the user is typing at the same time.
 The sending thread reads user input from the keyboard and sends it to the server using an output stream. The receiving thread continuously listens for messages from the server and displays them in the console. This approach closely resembles how real-world chat applications work, even though the interface is text-based.
 
+# CONCLUSION
+
+The Java Chat Server and Client application is a simple yet effective demonstration of real-time communication using Java. It focuses on core networking concepts and avoids unnecessary complexity, making it ideal for beginners and students. By implementing socket programming and multithreading, the project reflects how real-world chat systems operate at a basic level. Its console-based design ensures minimal system requirements while maintaining clear and understandable logic.
+
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/21207d8f-8807-4723-b896-d6cd6fa392e3)
